@@ -4,8 +4,8 @@ types and no any
 super strict types
 
 1. Typescipt code formatting settings:
-Control+, select typescript
-Alternatively, set -->to select typescript
+Control+, choose TypeScript
+Or, Settings -->choose TypeScript
 
 2. Unified team code formatting:
 Export Format Settings: Profiles -->Export Profile... --> Check Settings
