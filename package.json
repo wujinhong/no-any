@@ -1,0 +1,29 @@
+{
+  "name": "no-any",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "tsc": "tsc --watch true",
+    "publish-npm": "npm publish ."
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujinhong/no-any.git"
+  },
+  "keywords": [
+    "types",
+    "super strict types",
+    "no any"
+  ],
+  "description": "types and no any",
+  "author": "Gordon",
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "bugs": {
+    "url": "https://github.com/wujinhong/no-any/issues"
+  },
+  "homepage": "https://github.com/wujinhong/no-any#readme"
+}
