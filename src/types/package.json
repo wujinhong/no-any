@@ -1,0 +1,6 @@
+{
+    "name": "@cms/types",
+    "version": "3.3.3",
+    "description": "Type definitions for CMS",
+    "typings": "index.d.ts"
+}
